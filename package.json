@@ -13,7 +13,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@sosumit001/github-insights-card": "^1.0.3",
     "apollo-boost": "^0.4.9",
     "dotenv": "^16.3.1",
     "github-insights-card": "^1.0.4",
