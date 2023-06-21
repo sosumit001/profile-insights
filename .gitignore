@@ -1,6 +1,6 @@
 library
 component
-.npmrc
+
 # Logs
 logs
 *.log
